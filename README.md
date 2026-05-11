@@ -2,6 +2,11 @@
 
 A simple server-side Minecraft mod that changes player death behavior.
 
+## Download
+
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/kill-to-spectate)
+- [Modrinth](https://modrinth.com/mod/kill-to-spectate)
+
 ## Features
 
 - If a player is killed by another player, they are switched to Spectator mode.
