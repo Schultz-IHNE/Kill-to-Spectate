@@ -18,7 +18,7 @@ Perfect for:
 
 ## License
 
-Licensed under GNU GPL v3.
+Licensed under GNU GPL 3.0
 
 ## Authors
 
