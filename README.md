@@ -22,5 +22,5 @@ Licensed under GNU GPL v3.
 
 ## Authors
 
-- Schultz IHNe
+- Schultz IHNE
 - sssilverhand IHNE
